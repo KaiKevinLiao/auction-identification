@@ -1,4 +1,4 @@
-# Auction Identification
+# Auction IdentificationCancel changes
 
 Reading List:
 
@@ -7,6 +7,6 @@ Reading List:
 3. Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords (Edelman, 2007)
 4. A Structural Model of Sponsored Search Advertising Auctions (Athey, 2011)
 5. Empirical Models of Auctions (Athey, 2006)
-
+6. Bidding for Incomplete Contracts: An Empirical Analysis of Adaptation Costs (Bajari et.al, 2014)
 
 
